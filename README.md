@@ -2,7 +2,7 @@
 
 # A Pink Solution for a Cookie Problem? <br> 
 
-# Prize-winning project for IronHack's Machine Learning Competition
+# Prize-Winning Project for IronHack's Machine Learning Competition
 *[Miguel Chacon, Jorge Gonzalez, Anna Fonte, Nick Deitmers]*
 
 ## Content
