@@ -11,6 +11,7 @@
 - [Dataset](#dataset)
 - [Workflow](#workflow)
 - [Organization](#organization)
+- [Repository](#repository)
 - [Links](#links)
 
 ## Project Description
@@ -36,7 +37,7 @@ Once the pre-processing pipeline was ready, the remaining tasks and model traini
 
 ## Repository
 
-Folders structure:
+Folder structure:
 - Presentation: A ppt to pitch our model to the client. 
 - Machine Learning Pipeline: The team's complete analysis, pre-processing, and modeling of the data.
 - Other Model Results: Results from models that were tested but discarded.
