@@ -1,6 +1,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# A Pink Solution for a Cookie Problem? <br> Prize-winning project for IronHack's Machine Learning Competition
+# A Pink Solution for a Cookie Problem? <br> 
+
+# Prize-winning project for IronHack's Machine Learning Competition
 *[Miguel Chacon, Jorge Gonzalez, Anna Fonte, Nick Deitmers]*
 
 ## Content
