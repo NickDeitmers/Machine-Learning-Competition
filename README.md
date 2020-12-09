@@ -15,7 +15,7 @@
 
 ## Project Description
 
-A cookie distributor called Flea Cookies has hired us - Team Pink - to predict their customers' perceived quality of the products in its portfolio. <br> Flea Cookies is suffering from financial problems as a result of failures in predicting their sales - they have overstocked some categories by 40% and understocked others by 25%. They have purchased a cookie dataset and asked the team to develop a Machine Learning model to predict the cookies' perceived quality.
+A cookie distributor called Flea Cookies has hired us - Team Pink - to predict their customers' perceived quality of the products in its portfolio. <br> Flea Cookies is suffering from financial problems as a result of failures in predicting their sales - they have overstocked some categories by 40% and understocked others by 25%. They have purchased a cookie dataset and asked the team to develop a Machine Learning model to predict the cookies' perceived quality. They have provided us with a training dataset and the predictor variables for a testing dataset. Nevertheless, they have concealed the predictor variables for the testing dataset from us, as they will use it to judge the root mean square error of our model. 
 
 ## Dataset
 
@@ -37,9 +37,10 @@ Once the pre-processing pipeline was ready, the remaining tasks and model traini
 ## Repository
 
 Folders structure:
-- Data Received
-- Predictions
-- Code (W/ gitignore file)
+- Presentation: A ppt to pitch our model to the client. 
+- Machine Learning Pipeline: The team's complete analysis, pre-processing, and modeling of the data.
+- Other Model Results: Results from models that were tested but discarded.
+- Data: Contains a complete training dataset and the predictor variables for a testing dataset.
 - README 
  
 ## Links
