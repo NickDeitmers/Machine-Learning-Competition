@@ -15,7 +15,7 @@
 
 ## Project Description
 
-A cookie distributor, has hired us - team pink - to predict their customers' perceived quality of the products in its portfolio. <br> They have purhcased a cookie dataset and asked the team to develope a Machine Learning model to predict cookies' perceived quality.
+A cookie distributor called Flea Cookies has hired us - Team Pink - to predict their customers' perceived quality of the products in its portfolio. <br> Flea Cookies is suffering from financial problems as a result of failures in predicting their sales - they have overstocked some categories by 40% and understocked others by 25%. They have purchased a cookie dataset and asked the team to develop a Machine Learning model to predict the cookies' perceived quality.
 
 ## Dataset
 
@@ -24,7 +24,7 @@ We were given a 16 column dataset with cookies characteristics and around 5000 o
 ## Workflow
 - Understanding Dataset
 - Wrangling Data
-- Design Data Preprocessing Pipelines
+- Design Data Pre-Processing Pipelines
 - Assemble and Optimize ML Models
 - Pitch our Model to a Jury
 
@@ -32,7 +32,7 @@ We were given a 16 column dataset with cookies characteristics and around 5000 o
 ## Organization
 
 -In order to develop our model, we worked as a team to plan our workflow. We then divided activities and collaborated with our code through GitHub, meeting regularly to take decisions on key elements of the pipeline.
-Once the preprocessing pipeline was ready, the remaining tasks and model training were divided into each component of the group.
+Once the pre-processing pipeline was ready, the remaining tasks and model training were divided into each component of the group.
 
 ## Repository
 
