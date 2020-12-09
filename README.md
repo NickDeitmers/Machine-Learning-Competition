@@ -15,7 +15,7 @@
 
 ## Project Description
 
-The client, a cookie distributor, has hired the team to predict their customers' perceived quality of the products in its portfolio. <br> They have purhcased a cookie dataset and asked the team to develope a Machine Learning model to predict cookies' perceived quality.
+A cookie distributor, has hired us - team pink - to predict their customers' perceived quality of the products in its portfolio. <br> They have purhcased a cookie dataset and asked the team to develope a Machine Learning model to predict cookies' perceived quality.
 
 ## Dataset
 
