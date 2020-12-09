@@ -1,9 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# A Pink Solution for a Cookie Problem?
-*[Jorge Gonzalez, Anna Fonte, Nick Deitmers, Miguel Chacon]*
-
-*[Data Analytics Full Time & 27/11/2020]*
+# A Pink Solution for a Cookie Problem? Prize-winning project for IronHack's Machine Learning Competition
+*[Miguel Chacon, Jorge Gonzalez, Anna Fonte, Nick Deitmers]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,7 +12,8 @@
 - [Links](#links)
 
 ## Project Description
-After receiving a cookies dataset, we had to assamble a Machine Learning model in order to predict cookie qualities.
+
+The client, a cookie distributor, has hired the team to predict their customers' perceived quality of the products in its portfolio. <br> They have purhcased a cookie dataset and asked the team to develope a Machine Learning model to predict cookies' perceived quality.
 
 ## Dataset
 
@@ -23,15 +22,17 @@ We were given a 16 column dataset with cookies characteristics and around 5000 o
 ## Workflow
 - Understanding Dataset
 - Wrangling Data
-- Design Data Preproc Pipelines
-- Assamble ML Models
+- Design Data Preprocessing Pipelines
+- Assemble and Optimize ML Models
+- Pitch our Model to a Jury
+
 
 ## Organization
 
--In order to develop our model, we worked as a team during all stages of the workflow. For the data cleaning and preprocessing, the decisions were took as a group through a meeting.
-Once the preprocessing pipeline was ready, the remaining tasks and models training were divided into each component of the group.
+-In order to develop our model, we worked as a team to plan our workflow. We then divided activities and collaborated with our code through GitHub, meeting regularly to take decisions on key elements of the pipeline.
+Once the preprocessing pipeline was ready, the remaining tasks and model training were divided into each component of the group.
 
-What does your repository look like? Explain your folder and file structure.
+## Repository
 
 Folders structure:
 - Data Received
@@ -40,7 +41,7 @@ Folders structure:
 - README 
  
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
+
 
 [Repository](https://github.com/Jyu-as)
 [Slides](https://docs.google.com/presentation/d/18frdG9bB1sB6bIpgGy9Ig65OMHCl_X_GFGYrGOXZ6To/edit#slide=id.ga809319489_4_28)    
